@@ -6,8 +6,10 @@ Dataset Used: Flicker8K
 (Link to dataset is inside the notebook, and will be approprietly downloaded in the 
 specified location)
 
-Directive:  1. Open the notebook in colab
---------    2. Run cells sequentially. 
+Directive:  
+--------   
+1. Open the notebook in colab
+2. Run cells sequentially. 
 
 Footnotes:
 ---------
